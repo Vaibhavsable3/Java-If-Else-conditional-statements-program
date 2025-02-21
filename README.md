@@ -1,1 +1,1 @@
-# Java-If-Else-conditional-statements-program
+Here is a Java Conditional Statements using If ELse statements. There is a condition given in If statement if that condition is true then If block statements will be execute if the condition is false then Else block statement will be execute.
